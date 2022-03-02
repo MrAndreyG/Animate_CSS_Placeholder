@@ -25,15 +25,15 @@
     <div style="padding-left:64px;">
         <div class="Block_PH" >
           <input type="text" class="inputText" required />
-          <span class="floating-label">Your email address</span>
+          <span class="floating-label">Your email address address address</span>
         </div>
         <div class="Block_PH" >
           <input type="text" class="inputText" required />
-          <span class="floating-label">Your email address</span>
+          <span class="floating-label">Your email address address address</span>
         </div>
         <div class="Block_PH" >
           <input type="text" class="inputText" required />
-          <span class="floating-label">Your email address</span>
+          <span class="floating-label">Your email address address address</span>
         </div>
         <div class="Block_PH" >
           <input type="text" class="inputText" required />
